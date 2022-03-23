@@ -1,2 +1,2 @@
 # Builder-Pattern
-My code for parsing ingredient strings and creating ingredient objects
+My preliminary code for parsing ingredient strings and creating ingredient objects
